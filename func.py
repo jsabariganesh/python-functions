@@ -2,4 +2,4 @@ from typing import Any
 
 def hello(req: Any):
     # Your function implementation goes here
-    return "Hello Sabariganesh J!"
+    return "Hello Sabari!"
